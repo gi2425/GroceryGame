@@ -1,0 +1,44 @@
+broccoli
+carrots
+corn
+lettuce
+tomatoes
+apples
+bananas
+watermelon
+grapes
+bagels
+eggs
+orange juice
+apple juice
+ice cream
+popsicles
+bbq sauce
+jam
+ketchup
+maple syrup
+cereal
+mac & cheese
+pasta
+peanut butter
+pickles
+rice
+olives
+salt
+butter
+milk
+yogurt
+cheese
+bacon
+chicken
+fish
+donuts
+pie
+flour
+sugar
+cookies
+popcorn
+pretzels
+toothpaste
+toilet paper
+paper towels
